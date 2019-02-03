@@ -8,9 +8,13 @@ ooooooooooaaaaaaaaaaaaaaaaaaaaaaa
 
 
 
+<<<<<<< HEAD
 
 
 
 
 
 ‚ß‚½‚é‚¬‚ ‚³‚Î‚¢‚Ô
+=======
+‚ë‚ñ‚¬‚Ê‚·
+>>>>>>> mitagt
